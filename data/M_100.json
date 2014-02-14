@@ -1,0 +1,423 @@
+
+        {"chart": {
+
+        "countries": {
+
+        "countryitem": [
+
+
+
+        
+            	{"id": "QA", "name": "Qatar", "abbr" : "qat", "rank" : "1", "value" : "105.1",color:"FF0000"} ,
+            
+            	{"id": "KI", "name": "Kiribati", "abbr" : "kir", "rank" : "2", "value" : "103.2",color:"FF0000"} ,
+            
+            	{"id": "MH", "name": "Marshall Isl.", "abbr" : "mar", "rank" : "3", "value" : "102.8",color:"FF0000"} ,
+            
+            	{"id": "BA", "name": "Bahrain", "abbr" : "bhr", "rank" : "4", "value" : "102.7",color:"FF0000"} ,
+            
+            	{"id": "ME", "name": "Maldives", "abbr" : "mdv", "rank" : "5", "value" : "102.7",color:"FF0000"} ,
+            
+            	{"id": "TV", "name": "Tuvalu", "abbr" : "tuv", "rank" : "6", "value" : "102.6",color:"FF0000"} ,
+            
+            	{"id": "CO", "name": "Colombia", "abbr" : "col", "rank" : "7", "value" : "102.6",color:"FF0000"} ,
+            
+            	{"id": "KU", "name": "Kuwait", "abbr" : "kwt", "rank" : "8", "value" : "102.5",color:"FF0000"} ,
+            
+            	{"id": "SG", "name": "Singapore", "abbr" : "sgp", "rank" : "9", "value" : "102.4",color:"FF0000"} ,
+            
+            	{"id": "BZ", "name": "Belize", "abbr" : "blz", "rank" : "10", "value" : "102.4",color:"FF0000"} ,
+            
+            	{"id": "SC", "name": "Seychelles", "abbr" : "sey", "rank" : "11", "value" : "102.4",color:"FF0000"} ,
+            
+            	{"id": "CR", "name": "Costa Rica", "abbr" : "cri", "rank" : "12", "value" : "102.4",color:"FF0000"} ,
+            
+            	{"id": "BR", "name": "Brazil", "abbr" : "bra", "rank" : "13", "value" : "102.4",color:"FF0000"} ,
+            
+            	{"id": "BN", "name": "Brunei", "abbr" : "brn", "rank" : "14", "value" : "102.3",color:"FF0000"} ,
+            
+            	{"id": "SV", "name": "El Salvador", "abbr" : "slv", "rank" : "15", "value" : "102.3",color:"FF0000"} ,
+            
+            	{"id": "JM", "name": "Jamaica", "abbr" : "jam", "rank" : "16", "value" : "102.3",color:"FF0000"} ,
+            
+            	{"id": "TH", "name": "Thailand", "abbr" : "tha", "rank" : "17", "value" : "102.3",color:"FF0000"} ,
+            
+            	{"id": "IE", "name": "Israel", "abbr" : "isr", "rank" : "18", "value" : "102.3",color:"FF0000"} ,
+            
+            	{"id": "UZ", "name": "Uzbekistan", "abbr" : "uzb", "rank" : "19", "value" : "102.3",color:"FF0000"} ,
+            
+            	{"id": "GD", "name": "Grenada", "abbr" : "grd", "rank" : "20", "value" : "102.3",color:"FF0000"} ,
+            
+            	{"id": "LC", "name": "Saint Lucia", "abbr" : "lca", "rank" : "21", "value" : "102.3",color:"FF0000"} ,
+            
+            	{"id": "MT", "name": "Malta", "abbr" : "mlt", "rank" : "22", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "CU", "name": "Cuba", "abbr" : "cub", "rank" : "23", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "CA", "name": "Canada", "abbr" : "can", "rank" : "24", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "MX", "name": "Mexico", "abbr" : "mex", "rank" : "25", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "AG", "name": "Antigua/Bar.", "abbr" : "ant", "rank" : "26", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "VE", "name": "Venezuela", "abbr" : "ven", "rank" : "27", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "CV", "name": "Cape Verde", "abbr" : "cpv", "rank" : "28", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "PY", "name": "Paraguay", "abbr" : "pry", "rank" : "29", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "SM", "name": "San Marino", "abbr" : "sma", "rank" : "30", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "FR", "name": "France", "abbr" : "fra", "rank" : "31", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "GR", "name": "Greece", "abbr" : "gre", "rank" : "32", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "NI", "name": "Nicaragua", "abbr" : "nic", "rank" : "33", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "HU", "name": "Hungary", "abbr" : "hun", "rank" : "34", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "DM", "name": "Dominica", "abbr" : "dma", "rank" : "35", "value" : "102.2",color:"FF0000"} ,
+            
+            	{"id": "PA", "name": "Panama", "abbr" : "pan", "rank" : "36", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "EC", "name": "Ecuador", "abbr" : "ecu", "rank" : "37", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "DE", "name": "Germany", "abbr" : "deu", "rank" : "38", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "TJ", "name": "Tajikistan", "abbr" : "tjk", "rank" : "39", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "KG", "name": "Kyrgyzstan", "abbr" : "kgz", "rank" : "40", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "ES", "name": "Spain", "abbr" : "esp", "rank" : "41", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "BE", "name": "Belgium", "abbr" : "bel", "rank" : "42", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "FI", "name": "Finland", "abbr" : "fin", "rank" : "43", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "AZ", "name": "Azerbaijan", "abbr" : "aze", "rank" : "44", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "CY", "name": "Cyprus", "abbr" : "cyp", "rank" : "45", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "GE", "name": "Georgia", "abbr" : "geo", "rank" : "46", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "LV", "name": "Latvia", "abbr" : "lva", "rank" : "47", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "DO", "name": "Dominican Rep", "abbr" : "dom", "rank" : "48", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "AT", "name": "Austria", "abbr" : "aut", "rank" : "49", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "ZA", "name": "South Africa", "abbr" : "zaf", "rank" : "50", "value" : "102.1",color:"FF0000"} ,
+            
+            	{"id": "CZ", "name": "Czech Republic", "abbr" : "cze", "rank" : "51", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "BB", "name": "Barbados", "abbr" : "brb", "rank" : "52", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "MG", "name": "Serbia/Monten", "abbr" : "ser", "rank" : "53", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "MV", "name": "Moldova", "abbr" : "mda", "rank" : "54", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "MY", "name": "Malaysia", "abbr" : "mys", "rank" : "55", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "VC", "name": "Saint Vincent", "abbr" : "vct", "rank" : "56", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "LT", "name": "Lithuania", "abbr" : "ltu", "rank" : "57", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "UK", "name": "United Kingdom", "abbr" : "gbr", "rank" : "58", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "HN", "name": "Honduras", "abbr" : "hnd", "rank" : "59", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "WS", "name": "Samoa", "abbr" : "wsm", "rank" : "60", "value" : "102.1",color:"00FF00"} ,
+            
+            	{"id": "AU", "name": "Australia", "abbr" : "aus", "rank" : "61", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "MC", "name": "Monaco", "abbr" : "mon", "rank" : "62", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "SI", "name": "Slovenia", "abbr" : "svn", "rank" : "63", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "IN", "name": "India", "abbr" : "ind", "rank" : "64", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "MI", "name": "Mauritius", "abbr" : "mus", "rank" : "65", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "RW", "name": "Rwanda", "abbr" : "rwa", "rank" : "66", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "EE", "name": "Estonia", "abbr" : "est", "rank" : "67", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "UY", "name": "Uruguay", "abbr" : "ury", "rank" : "68", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "IT", "name": "Italy", "abbr" : "ita", "rank" : "69", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "LK", "name": "Sri Lanka", "abbr" : "lka", "rank" : "70", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "IR", "name": "Ireland", "abbr" : "irl", "rank" : "71", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "SK", "name": "Slovakia", "abbr" : "svk", "rank" : "72", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "", "name": "Cook Islands", "abbr" : "coo", "rank" : "73", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "UA", "name": "Ukraine", "abbr" : "ukr", "rank" : "74", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "US", "name": "United States", "abbr" : "usa", "rank" : "75", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "LU", "name": "Luxembourg", "abbr" : "lux", "rank" : "76", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "RO", "name": "Romania", "abbr" : "rom", "rank" : "77", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "NL", "name": "Netherlands", "abbr" : "nld", "rank" : "78", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "BY", "name": "Belarus", "abbr" : "blr", "rank" : "79", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "NZ", "name": "New Zealand", "abbr" : "nzl", "rank" : "80", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "BS", "name": "Bahamas", "abbr" : "bhs", "rank" : "81", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "IS", "name": "Iceland", "abbr" : "isl", "rank" : "82", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "JP", "name": "Japan", "abbr" : "jpn", "rank" : "83", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "SE", "name": "Sweden", "abbr" : "swe", "rank" : "84", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "CL", "name": "Chile", "abbr" : "chl", "rank" : "85", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "TM", "name": "Turkmenistan", "abbr" : "tkm", "rank" : "86", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "SR", "name": "Suriname", "abbr" : "sur", "rank" : "87", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "BG", "name": "Bulgaria", "abbr" : "bgr", "rank" : "88", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "PL", "name": "Poland", "abbr" : "pol", "rank" : "89", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "AD", "name": "Andorra", "abbr" : "and", "rank" : "90", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "TO", "name": "Tonga", "abbr" : "ton", "rank" : "91", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "CH", "name": "Switzerland", "abbr" : "che", "rank" : "92", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "SD", "name": "Sudan", "abbr" : "sdn", "rank" : "93", "value" : "102.0",color:"00FF00"} ,
+            
+            	{"id": "DK", "name": "Denmark", "abbr" : "dnk", "rank" : "94", "value" : "101.9",color:"00FF00"} ,
+            
+            	{"id": "PT", "name": "Portugal", "abbr" : "prt", "rank" : "95", "value" : "101.9",color:"00FF00"} ,
+            
+            	{"id": "AR", "name": "Argentina", "abbr" : "arg", "rank" : "96", "value" : "101.9",color:"00FF00"} ,
+            
+            	{"id": "PE", "name": "Peru", "abbr" : "per", "rank" : "97", "value" : "101.9",color:"00FF00"} ,
+            
+            	{"id": "MN", "name": "Mongolia", "abbr" : "mng", "rank" : "98", "value" : "101.9",color:"00FF00"} ,
+            
+            	{"id": "NO", "name": "Norway", "abbr" : "nor", "rank" : "99", "value" : "101.9",color:"00FF00"} ,
+            
+            	{"id": "RU", "name": "Russia", "abbr" : "rus", "rank" : "100", "value" : "101.9",color:"00FF00"} ,
+            
+            	{"id": "TN", "name": "Tunisia", "abbr" : "tun", "rank" : "101", "value" : "101.9",color:"9933FF"} ,
+            
+            	{"id": "KZ", "name": "Kazakhstan", "abbr" : "kaz", "rank" : "102", "value" : "101.9",color:"9933FF"} ,
+            
+            	{"id": "HY", "name": "Croatia", "abbr" : "hrv", "rank" : "103", "value" : "101.9",color:"9933FF"} ,
+            
+            	{"id": "KR", "name": "South Korea", "abbr" : "kor", "rank" : "104", "value" : "101.9",color:"9933FF"} ,
+            
+            	{"id": "BD", "name": "Bangladesh", "abbr" : "bgd", "rank" : "105", "value" : "101.9",color:"9933FF"} ,
+            
+            	{"id": "IA", "name": "Iran", "abbr" : "irn", "rank" : "106", "value" : "101.9",color:"9933FF"} ,
+            
+            	{"id": "GT", "name": "Guatemala", "abbr" : "gtm", "rank" : "107", "value" : "101.9",color:"9933FF"} ,
+            
+            	{"id": "GA", "name": "Gabon", "abbr" : "gab", "rank" : "108", "value" : "101.9",color:"9933FF"} ,
+            
+            	{"id": "VN", "name": "Viet Nam", "abbr" : "vnm", "rank" : "109", "value" : "101.9",color:"9933FF"} ,
+            
+            	{"id": "LR", "name": "Libya", "abbr" : "lby", "rank" : "110", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "", "name": "Niue", "abbr" : "niu", "rank" : "111", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "SY", "name": "Syria", "abbr" : "syr", "rank" : "112", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "EG", "name": "Egypt", "abbr" : "egy", "rank" : "113", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "SA", "name": "Saudi Arabia", "abbr" : "sau", "rank" : "114", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "ZW", "name": "Zimbabwe", "abbr" : "zwe", "rank" : "115", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "ER", "name": "Eritrea", "abbr" : "eri", "rank" : "116", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "BO", "name": "Bolivia", "abbr" : "bol", "rank" : "117", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "MS", "name": "Madagascar", "abbr" : "mdg", "rank" : "118", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "GH", "name": "Ghana", "abbr" : "gha", "rank" : "119", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "PK", "name": "Pakistan", "abbr" : "pak", "rank" : "120", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "BT", "name": "Bhutan", "abbr" : "btn", "rank" : "121", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "JO", "name": "Jordan", "abbr" : "jor", "rank" : "122", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "TK", "name": "Turkey", "abbr" : "tur", "rank" : "123", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "BH", "name": "Bosnia/Herzeg", "abbr" : "bih", "rank" : "124", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "PG", "name": "New Guinea", "abbr" : "png", "rank" : "125", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "MK", "name": "Macedonia", "abbr" : "mkd", "rank" : "126", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "ID", "name": "Indonesia", "abbr" : "idn", "rank" : "127", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "TZ", "name": "Tanzania", "abbr" : "tza", "rank" : "128", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "FJ", "name": "Fiji", "abbr" : "fji", "rank" : "129", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "NA", "name": "Namibia", "abbr" : "nam", "rank" : "130", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "KE", "name": "Kenya", "abbr" : "ken", "rank" : "131", "value" : "101.8",color:"9933FF"} ,
+            
+            	{"id": "CG", "name": "Congo", "abbr" : "cog", "rank" : "132", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "MA", "name": "Morocco", "abbr" : "mor", "rank" : "133", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "ET", "name": "Ethiopia", "abbr" : "eth", "rank" : "134", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "TG", "name": "Togo", "abbr" : "tgo", "rank" : "135", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "AE", "name": "Arab Emirates", "abbr" : "uae", "rank" : "136", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "AM", "name": "Armenia", "abbr" : "arm", "rank" : "137", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "UG", "name": "Uganda", "abbr" : "uga", "rank" : "138", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "KH", "name": "Cambodia", "abbr" : "khm", "rank" : "139", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "LB", "name": "Lebanon", "abbr" : "lbn", "rank" : "140", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "MZ", "name": "Mozambique", "abbr" : "moz", "rank" : "141", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "MM", "name": "Myanmar", "abbr" : "mmr", "rank" : "142", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "PW", "name": "Palau", "abbr" : "pal", "rank" : "143", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "LA", "name": "Laos", "abbr" : "lao", "rank" : "144", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "CI", "name": "Cote d Ivoire", "abbr" : "civ", "rank" : "145", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "VU", "name": "Vanuatu", "abbr" : "vut", "rank" : "146", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "BJ", "name": "Benin", "abbr" : "ben", "rank" : "147", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "CM", "name": "Cameroon", "abbr" : "cmr", "rank" : "148", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "ZM", "name": "Zambia", "abbr" : "zmb", "rank" : "149", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "NP", "name": "Nepal", "abbr" : "npl", "rank" : "150", "value" : "101.7",color:"9933FF"} ,
+            
+            	{"id": "TT", "name": "Trinidad/Tob.", "abbr" : "tto", "rank" : "151", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "AL", "name": "Albania", "abbr" : "alb", "rank" : "152", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "AF", "name": "Afghanistan", "abbr" : "afg", "rank" : "153", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "NG", "name": "Nigeria", "abbr" : "nga", "rank" : "154", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "YM", "name": "Yemen", "abbr" : "yem", "rank" : "155", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "GN", "name": "Guinea", "abbr" : "gin", "rank" : "156", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "KN", "name": "St. Kitts", "abbr" : "stk", "rank" : "157", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "BI", "name": "Burundi", "abbr" : "bdi", "rank" : "158", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "GQ", "name": "Equ. Guinea", "abbr" : "gnq", "rank" : "159", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "LI", "name": "Liberia", "abbr" : "lbr", "rank" : "160", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "KM", "name": "Comoros", "abbr" : "com", "rank" : "161", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "CP", "name": "Central Africa", "abbr" : "caf", "rank" : "162", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "AO", "name": "Angola", "abbr" : "ago", "rank" : "163", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "SO", "name": "Somalia", "abbr" : "som", "rank" : "164", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "PH", "name": "Philippines", "abbr" : "phl", "rank" : "165", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "DJ", "name": "Djibouti", "abbr" : "dji", "rank" : "166", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "OM", "name": "Oman", "abbr" : "omn", "rank" : "167", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "ST", "name": "Sao Tome", "abbr" : "stp", "rank" : "168", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "GW", "name": "Guinea-Bissau", "abbr" : "gnb", "rank" : "169", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "TP", "name": "Timor-Leste", "abbr" : "tls", "rank" : "170", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "LS", "name": "Lesotho", "abbr" : "lso", "rank" : "171", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "CD", "name": "DR Congo", "abbr" : "cod", "rank" : "172", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "SZ", "name": "Swaziland", "abbr" : "swz", "rank" : "173", "value" : "101.7",color:"666666"} ,
+            
+            	{"id": "DZ", "name": "Algeria", "abbr" : "dza", "rank" : "174", "value" : "101.6",color:"666666"} ,
+            
+            	{"id": "HT", "name": "Haiti", "abbr" : "hti", "rank" : "175", "value" : "101.6",color:"666666"} ,
+            
+            	{"id": "BW", "name": "Botswana", "abbr" : "bwa", "rank" : "176", "value" : "101.6",color:"666666"} ,
+            
+            	{"id": "GY", "name": "Guyana", "abbr" : "guy", "rank" : "177", "value" : "101.6",color:"666666"} ,
+            
+            	{"id": "SB", "name": "Solomon Isl.", "abbr" : "slb", "rank" : "178", "value" : "101.6",color:"666666"} ,
+            
+            	{"id": "MW", "name": "Malawi", "abbr" : "mwi", "rank" : "179", "value" : "101.6",color:"666666"} ,
+            
+            	{"id": "BF", "name": "Burkina Faso", "abbr" : "bfa", "rank" : "180", "value" : "101.5",color:"666666"} ,
+            
+            	{"id": "CN", "name": "China", "abbr" : "chn", "rank" : "181", "value" : "101.5",color:"666666"} ,
+            
+            	{"id": "NE", "name": "Niger", "abbr" : "ner", "rank" : "182", "value" : "101.5",color:"666666"} ,
+            
+            	{"id": "TD", "name": "Chad", "abbr" : "tcd", "rank" : "183", "value" : "101.5",color:"666666"} ,
+            
+            	{"id": "ML", "name": "Mali", "abbr" : "mli", "rank" : "184", "value" : "101.5",color:"666666"} ,
+            
+            	{"id": "MR", "name": "Mauritania", "abbr" : "mrt", "rank" : "185", "value" : "101.5",color:"666666"} ,
+            
+            	{"id": "KP", "name": "North Korea", "abbr" : "prk", "rank" : "186", "value" : "101.5",color:"666666"} ,
+            
+            	{"id": "GM", "name": "Gambia", "abbr" : "gmb", "rank" : "187", "value" : "101.4",color:"666666"} ,
+            
+            	{"id": "SL", "name": "Sierra Leone", "abbr" : "sle", "rank" : "188", "value" : "101.4",color:"666666"} ,
+            
+            	{"id": "SN", "name": "Senegal", "abbr" : "sen", "rank" : "189", "value" : "101.4",color:"666666"} ,
+            
+            	{"id": "IZ", "name": "Iraq", "abbr" : "irq", "rank" : "190", "value" : "101.4",color:"666666"} ,
+            
+            	{"id": "FM", "name": "Micronesia", "abbr" : "mic", "rank" : "191", "value" : "101.4",color:"666666"} ,
+            
+            	{"id": "NR", "name": "Nauru", "abbr" : "nau", "rank" : "192", "value" : "101.3",color:"666666"} 
+            
+
+
+        ]
+
+        },
+
+        "legend": {
+
+        "legenditem": [
+
+         
+
+            {"name":"0", "minvar":"0", "maxvar":"0", "color":"666666"}  ,
+             
+
+            {"name":"0", "minvar":"0", "maxvar":"0", "color":"9933FF"}  ,
+             
+
+            {"name":"0", "minvar":"0", "maxvar":"0", "color":"00FF00"}  ,
+             
+
+            {"name":"0", "minvar":"0", "maxvar":"0", "color":"FF0000"}  
+            
+        ]
+
+        }
+
+        }}
+    
